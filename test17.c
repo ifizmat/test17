@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(int argv, char *argc[]) {
+  int a = 0;
   printf("Test git\n");
   printf("argv: %d\n", argv);
   int i = 0;
